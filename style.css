@@ -1,0 +1,14 @@
+/* #24353f; 
+    color: #212529;
+*/
+body{
+    background-color: #24353f;
+    font-family: 'Titillium Web', sans-serif;;
+}
+span a:hover{
+    text-decoration: underline;
+
+}
+.logout{
+    margin-left: 90%;
+}
